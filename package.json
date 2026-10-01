@@ -1,0 +1,17 @@
+{
+  "name": "crud_api_ts_academy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "StudentsAPI.js",
+  "scripts": {
+    "dev": "node StudentsAPI.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
